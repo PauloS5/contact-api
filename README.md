@@ -1,8 +1,8 @@
-# Api de Contatos
+# API de Contatos
 
 ## Sobre o projeto
 ### Conceito
-O projeto consiste consiste em uma simples lista de contatos
+O projeto consiste consiste em uma simples API simulando a forma como uma lista de contatos funciona
 ### Objetivo
 O projeto foi desenvolvido com a itenção de praticar:
 - Programação Back-End
@@ -13,6 +13,8 @@ O projeto foi desenvolvido com a itenção de praticar:
 ### Tecnologias usadas 
 - **PHP:** Uma linguagem de programação comumente usada para aplicações do lado do servidor
 - **PDO:** Uma camada de abstração de banco de dados
-- **MySql:** Um modelo de banco de dados relazional que tem como base a linguagem de consulta SQL
+- **MySQL:** Um modelo de banco de dados relacional que tem como base a linguagem de consulta SQL
 #### Instalação
-1. Importar o dump.sql
+1. Mover a pasta para o 'htdocs' do XAMPP
+2. Iniciar o Apache e o MySQL do XAMPP
+3. Acessar o [localhost](http://localhost/contacts-api/)
