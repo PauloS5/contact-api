@@ -17,4 +17,8 @@ O projeto foi desenvolvido com a itenção de praticar:
 #### Instalação
 1. Mover a pasta para o 'htdocs' do XAMPP
 2. Iniciar o Apache e o MySQL do XAMPP
-3. Acessar o [localhost](http://localhost/contacts-api/)
+3. Acessar o [localhost](http://localhost/contacts-api/) e realizar as requisições HTTP
+
+## Sobre a API
+### Métodos implementados:
+- **POST:** Recebe 
