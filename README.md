@@ -39,11 +39,11 @@ Uma API simples que simula o funcionamento de uma lista de contatos, desenvolvid
 
 GET /contacts
 
-3️⃣ Obter Contato por ID
+### 3️⃣ Obter Contato por ID
 
 GET /contacts?id={id}
 
-4️⃣ Atualizar Contato
+### 4️⃣ Atualizar Contato
 
 PUT /contacts?{id}
 
@@ -55,6 +55,6 @@ PUT /contacts?{id}
 "phone": "987654321"
 }
 ```
-5️⃣ Remover Contato
+### 5️⃣ Remover Contato
 
 DELETE /contacts?id={id}
